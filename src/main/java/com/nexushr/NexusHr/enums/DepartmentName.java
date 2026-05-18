@@ -1,0 +1,23 @@
+package com.nexushr.NexusHr.enums;
+
+public enum DepartmentName {
+	
+	SOFTWARE_ENGINEERING,
+    BACKEND_ENGINEERING,
+    FRONTEND_ENGINEERING,
+    FULLSTACK_ENGINEERING,
+    DEVOPS,
+    QA,
+    DATA_ENGINEERING,
+    AI_ML,
+    CYBER_SECURITY,
+    CLOUD_ENGINEERING,
+    MOBILE_DEVELOPMENT,
+    PRODUCT_MANAGEMENT,
+    UI_UX,
+    HR,
+    FINANCE,
+    SALES,
+    OPERATIONS
+
+}
