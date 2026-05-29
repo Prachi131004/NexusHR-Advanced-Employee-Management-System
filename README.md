@@ -33,7 +33,7 @@ The NexusHR backend is deployed on **Render** and APIs can be tested directly us
 
 Explore and test all available REST APIs using Swagger UI.
 
-[https://[nexushr-api.onrender.com/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)](https://nexushr-advanced-employee-management.onrender.com/swagger-ui/index.html)
+[(https://nexushr-advanced-employee-management.onrender.com/swagger-ui/index.html)](https://nexushr-advanced-employee-management.onrender.com/swagger-ui/index.html)
 
 ---
 
