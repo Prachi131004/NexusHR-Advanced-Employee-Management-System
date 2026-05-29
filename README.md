@@ -1,4 +1,4 @@
-# 🧩 NexusHR — Enterprise Employee Management System
+#  NexusHR — Enterprise Employee Management System
 
 <p align="center">
   <strong>Advanced HR Management Backend built with Spring Boot</strong>
@@ -21,15 +21,15 @@ Manage the complete employee lifecycle — onboarding, departments, promotions, 
 
 ---
 
-## 🌐 Live API Access
+## Live API Access
 
-### 🚀 Deployed Backend (Render)
+### Deployed Backend (Render)
 
 The NexusHR backend is deployed on **Render** and APIs can be tested directly using **Swagger UI**.
 
 [https://nexushr-api.onrender.com](https://nexushr-advanced-employee-management.onrender.com)
 
-### 📘 Swagger API Documentation
+### Swagger API Documentation
 
 Explore and test all available REST APIs using Swagger UI.
 
@@ -37,7 +37,7 @@ Explore and test all available REST APIs using Swagger UI.
 
 ---
 
-# 📌 About The Project
+# About The Project
 
 **NexusHR** is an enterprise-grade **Employee Management System** developed using **Spring Boot** and **JPA/Hibernate** that manages the complete employee lifecycle.
 
@@ -55,9 +55,9 @@ The project follows **clean layered architecture**, **DTO pattern**, **bean vali
 
 ---
 
-# 🚀 Core Features
+# Core Features
 
-## 👨‍💼 Employee Management
+## Employee Management
 
 ✔ Employee onboarding using DTOs & validation  
 ✔ Employee search/filtering  
@@ -79,7 +79,7 @@ The project follows **clean layered architecture**, **DTO pattern**, **bean vali
 
 ---
 
-## 🏢 Department Management
+## Department Management
 
 ✔ Create department with budget & location  
 ✔ Department head assignment  
@@ -100,7 +100,7 @@ The project follows **clean layered architecture**, **DTO pattern**, **bean vali
 
 ---
 
-## 📁 Project Management
+## Project Management
 
 ✔ Create projects  
 ✔ Project lifecycle tracking  
@@ -119,7 +119,7 @@ The project follows **clean layered architecture**, **DTO pattern**, **bean vali
 
 ---
 
-## 📝 Leave Management
+## Leave Management
 
 ✔ Leave request workflow  
 ✔ Approval/Rejection flow  
@@ -135,7 +135,7 @@ The project follows **clean layered architecture**, **DTO pattern**, **bean vali
 
 ---
 
-# 🏗️ Domain Model (Entity Relationships)
+# Domain Model (Entity Relationships)
 
 NexusHR follows enterprise-level relational mapping using **JPA/Hibernate**.
 
@@ -148,33 +148,33 @@ NexusHR follows enterprise-level relational mapping using **JPA/Hibernate**.
 
 ---
 
-# 📸 API Screenshots
+# API Screenshots
 
-## 👨‍💼 Create Employee
+## Create Employee
 
 ![Create Employee](screenshots/create-employee.png)
 
 ---
 
-## 🏢 Create Department
+## Create Department
 
 ![Create Department](screenshots/create-department.png)
 
 ---
 
-## 👤 Create Employee Profile
+## Create Employee Profile
 
 ![Create Employee Profile](screenshots/create-employeeprofile.png)
 
 ---
 
-## 📁 Create Project
+## Create Project
 
 ![Create Project](screenshots/create-project.png)
 
 ---
 
-## 📝 Create Leave Request
+## Create Leave Request
 
 ---
 
@@ -183,7 +183,7 @@ NexusHR follows enterprise-level relational mapping using **JPA/Hibernate**.
 ---
 
 
-# 🧠 Advanced Concepts Implemented
+# Advanced Concepts Implemented
 
 ### DTO Pattern
 
@@ -312,7 +312,7 @@ Database Layer
 ### Package Structure
 
 ```text
-### 📦 Package Structure
+### Package Structure
 
 ```text
 com.nexushr.NexusHr
@@ -401,7 +401,7 @@ com.nexushr.NexusHr
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 | Category | Technology |
 |---|---|
@@ -416,7 +416,7 @@ com.nexushr.NexusHr
 
 ---
 
-# 🧪 Run Locally
+# Run Locally
 
 ### Clone Repository
 
@@ -438,7 +438,7 @@ mvn spring-boot:run
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 Through NexusHR, I gained hands-on experience with:
 
@@ -454,12 +454,9 @@ Through NexusHR, I gained hands-on experience with:
 
 ---
 
-# 👨‍💻 Developer
+# Developer
 
 **Prachi Prajapati**
 
 GitHub: https://github.com/Prachi131004
 
----
-
-⭐ If you found this project useful, consider giving it a star.
