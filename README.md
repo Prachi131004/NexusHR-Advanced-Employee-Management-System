@@ -11,7 +11,7 @@ Manage the complete employee lifecycle — onboarding, departments, promotions, 
 <p align="center">
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-4.0.5-brightgreen?style=for-the-badge)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Build-Maven-red?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/API-REST-success?style=for-the-badge)
