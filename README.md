@@ -454,7 +454,7 @@ Through NexusHR, I gained hands-on experience with:
 
 ---
 
-# Developer
+# Author
 
 **Prachi Prajapati**
 
