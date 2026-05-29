@@ -1,4 +1,4 @@
-package com.nexushr.NexusHr;
+ package com.nexushr.NexusHr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
